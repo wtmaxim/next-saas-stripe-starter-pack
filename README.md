@@ -110,7 +110,7 @@ pnpm run dev
 
 ## Credits
 
-This project was inspired by shadcn's [@miickasmt](https://github.com/mickasmt/next-saas-stripe-starter).
+This project was inspired by miickasmt's [@miickasmt](https://github.com/mickasmt/next-saas-stripe-starter).
 
 - Shadcn ([@shadcn](https://twitter.com/shadcn))
 - Mickasmt ([@miickasmt](https://twitter.com/miickasmt))
